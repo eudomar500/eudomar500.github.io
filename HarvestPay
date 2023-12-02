@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Real Assets World</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <header>
+    <nav>
+      <div class="logo">RWA</div>
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#services">Services</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="home" class="hero">
+    <h1>Welcome to Real Assets World</h1>
+    <p>Discover a New Dimension in Real Assets Investment.</p>
+    <a href="#about" class="btn">Learn More</a>
+  </section>
+
+  <section id="about" class="about">
+    <div class="container">
+      <h2>About Us</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </div>
+  </section>
+
+  <section id="services" class="services">
+    <div class="container">
+      <h2>Our Services</h2>
+      <div class="service">
+        <h3>Real Estate Investment</h3>
+        <p>Explore unique opportunities in real estate investment.</p>
+      </div>
+      <div class="service">
+        <h3>Asset Management</h3>
+        <p>Efficiently manage your real assets portfolio.</p>
+      </div>
+      <!-- Agrega más servicios según sea necesario -->
+    </div>
+  </section>
+
+  <section id="contact" class="contact">
+    <div class="container">
+      <h2>Contact Us</h2>
+      <p>Get in touch with our team to discuss your investment goals.</p>
+      <!-- Agrega un formulario de contacto si es necesario -->
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2023 Real Assets World. All Rights Reserved.</p>
+    </div>
+  </footer>
+
+</body>
+</html>
